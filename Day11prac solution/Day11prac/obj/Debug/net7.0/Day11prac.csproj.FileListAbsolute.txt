@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\bin\Debug\net7.0\Day11prac.exe
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\bin\Debug\net7.0\Day11prac.deps.json
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\bin\Debug\net7.0\Day11prac.runtimeconfig.json
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\bin\Debug\net7.0\Day11prac.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\bin\Debug\net7.0\Day11prac.pdb
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.AssemblyInfo.cs
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\refint\Day11prac.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.pdb
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\Day11prac.genruntimeconfig.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day11prac solution\Day11prac\obj\Debug\net7.0\ref\Day11prac.dll
